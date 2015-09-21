@@ -1,0 +1,267 @@
+html, body {
+    margin:0;
+    padding:0;
+    color:#333333;
+}
+
+
+
+.landingbackground{
+    height: 1080px;
+    text-align: Center;
+    background-image: url("http://www.marketwire.com/library/MwGo/2014/10/29/11G024914/Images/Waterloo_Engineering_E7_rendering-1153536420474.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    
+}
+
+.toolbar{
+       background-color:#333333; 
+  float: top;
+    opacity: 0.8;   
+}
+
+.container { 
+    max-width:1940px;
+    margin: 0 auto;
+    padding: 0 2px;
+    
+        
+}
+
+.navibar {
+   margin:  0;
+    text-align: left;
+    padding: 20px 0px;
+    
+}
+
+.navibar li{
+    color: fff;
+    font-family: "PT sans Caption";
+    font-weight: 600;
+    font-size:16px;
+    display: inline;
+    margin-left:80px;
+    position: relative;
+    right:50px;    
+    
+}
+.menubutton{
+   text-decoration:none;
+    color:white;
+     padding: 10px 20px;
+     
+}
+
+.menubutton:hover {
+	background: #fff7cc;
+	cursor: pointer; 
+	transition: background .3s;  
+    opacity: 0.9;
+    color: grey;
+     border-radius: 2px;
+}
+.landingdata{
+    position: relative;
+    text-align: center;
+    top: 200px;
+    
+}
+
+.landingdata h1 {
+    color: white;
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size:75px;
+    margin-top:150px;
+    margin-bottom:25px;
+    text-transform:uppercase   
+    
+}
+
+.landingdata h4 {
+    color: white;
+    font-family: 'Verdana';
+    font-weight: 500;
+    font-size:20px;   
+}
+
+.ext-link {
+    margin-top: 170px;   
+    text-align: center;
+    
+}
+
+.btnex{
+ color:whitesmoke;
+font-family: 'Verdana';
+    font-size:20px;
+    padding-left: 50px;
+    padding-right: 50px;   
+}
+
+.btnex:hover {
+	background: #fff7cc;
+	cursor: pointer; 
+	transition: background .3s;  
+    opacity: 0.9;
+    color:gray;
+    border-radius: 2px;
+}
+
+.aboutbackground{
+     margin: 0 auto;
+    padding: 20px 0px;
+     height: 1080px;
+    text-align: Center;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/a/ac/Singapore_skyline_at_sunset_viewed_from_Gardens_by_the_Bay_East_-_20120426.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+       
+}
+
+
+.aboutdata h1 {
+    color: white;
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size:75px;
+    margin-top:350px;
+    margin-bottom:25px;
+    text-transform:uppercase    
+      
+    
+}
+
+.aboutdata p{
+    color: whitesmoke;
+    font-family: 'verdana';
+    margin-top: 400px;
+    margin-left: 30px;
+    margin-right: 40px;
+    border: white solid 1px;
+       
+    
+}
+
+.experiencebackground{
+     margin: 0 auto;
+    padding: 20px 0px;
+     height: 1080px;
+    text-align: Center;
+    background-image: url("http://4.bp.blogspot.com/-a9n_pU2cayk/UBKZCYp-MlI/AAAAAAAABBU/3Reeeu3y6-w/s1600/RSS+Formidable+USS+Nimitz+Rimpac+2012.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.experiencedata h1 {
+    color: white;
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size:75px;
+    margin-top:350px;
+    margin-bottom:25px;
+    text-transform:uppercase    
+      
+    
+}
+
+.experiencedata p{
+    color: whitesmoke;
+    font-family: 'verdana';
+    margin-top: 400px;
+    margin-left: 30px;
+    margin-right: 40px;
+    border: white solid 1px;
+       
+    
+}
+
+
+.skillsbackground{
+     margin: 0 auto;
+    padding: 20px 0px;
+     height: 1080px;
+    text-align: Center;
+    background-image: url("http://www.ukcollegesonline.co.uk/wp-content/uploads/2013/05/a_level_exam_essays_1.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.skillsdata h1 {
+    color: white;
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size:75px;
+    margin-top:350px;
+    margin-bottom:25px;
+    text-transform:uppercase    
+      
+    
+}
+
+.skillsdata p{
+    color: whitesmoke;
+    font-family: 'verdana';
+    margin-top: 400px;
+    margin-left: 30px;
+    margin-right: 40px;
+    border: white solid 1px;
+       
+    
+}
+
+.Contactbackground{
+     margin: 0 auto;
+    padding: 20px 0px;
+     height: 1080px;
+    text-align: Center;
+    background-image: url("https://cdn2.vox-cdn.com/thumbor/DKU9t88fBU88Q6JyQF8lWf1l1eY=/cdn0.vox-cdn.com/uploads/chorus_asset/file/2318010/AI_LAUNCH_SCREEN011_1411636921.0.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.contactdata h1 {
+    color: white;
+    font-family: 'Raleway';
+    font-weight: 500;
+    font-size:75px;
+    margin-top:350px;
+    margin-bottom:25px;
+    text-transform:uppercase    
+      
+    
+}
+
+.contactdata p{
+    color: whitesmoke;
+    font-family: 'verdana';
+    margin-top: 400px;
+    margin-left: 30px;
+    margin-right: 40px;
+    border: white solid 1px;
+       
+    
+}
+
+.footer{
+ margin-top:0;
+    margin-bottom:0;
+    padding:0;
+ background-color: #333333;  
+}
+
+.container p{
+ color:white;   
+    
+    
+}
